@@ -1,0 +1,14 @@
+/home/elieoko/Documents/developer/C#/concept/C#LearnApp/bin/Debug/net8.0/C#LearnApp
+/home/elieoko/Documents/developer/C#/concept/C#LearnApp/bin/Debug/net8.0/C#LearnApp.deps.json
+/home/elieoko/Documents/developer/C#/concept/C#LearnApp/bin/Debug/net8.0/C#LearnApp.runtimeconfig.json
+/home/elieoko/Documents/developer/C#/concept/C#LearnApp/bin/Debug/net8.0/C#LearnApp.dll
+/home/elieoko/Documents/developer/C#/concept/C#LearnApp/bin/Debug/net8.0/C#LearnApp.pdb
+/home/elieoko/Documents/developer/C#/concept/C#LearnApp/obj/Debug/net8.0/C#LearnApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/elieoko/Documents/developer/C#/concept/C#LearnApp/obj/Debug/net8.0/C#LearnApp.AssemblyInfoInputs.cache
+/home/elieoko/Documents/developer/C#/concept/C#LearnApp/obj/Debug/net8.0/C#LearnApp.AssemblyInfo.cs
+/home/elieoko/Documents/developer/C#/concept/C#LearnApp/obj/Debug/net8.0/C#LearnApp.csproj.CoreCompileInputs.cache
+/home/elieoko/Documents/developer/C#/concept/C#LearnApp/obj/Debug/net8.0/C#LearnApp.dll
+/home/elieoko/Documents/developer/C#/concept/C#LearnApp/obj/Debug/net8.0/refint/C#LearnApp.dll
+/home/elieoko/Documents/developer/C#/concept/C#LearnApp/obj/Debug/net8.0/C#LearnApp.pdb
+/home/elieoko/Documents/developer/C#/concept/C#LearnApp/obj/Debug/net8.0/C#LearnApp.genruntimeconfig.cache
+/home/elieoko/Documents/developer/C#/concept/C#LearnApp/obj/Debug/net8.0/ref/C#LearnApp.dll
